@@ -1,0 +1,13 @@
+# Step 4: Resource Deployment
+
+## Overview:
+Deployed various resources into the main Azure VNet, such as virtual machines (VMs) for the web server and database.
+
+### Steps:
+1. **Create a Web Server VM**:
+   - Deployed a VM in the WebApp Subnet.
+   - Configured the VM with basic settings (Ex: Windows or Linux OS).
+2. **Create a Database VM**:
+   - Deployed a VM in the Database Subnet to represent the database server.
+3. **Administrative VM**:
+   - Deployed a VM in the Admin Subnet for administrative purposes.
