@@ -1,0 +1,10 @@
+# Step 8: DNS and Load Balancing
+
+## Overview:
+Set up Azure DNS to manage custom domain names for the resources and used Azure Load Balancer to distribute traffic across multiple VMs in the WebApp Subnet.
+
+### Steps:
+1. **Azure DNS**:
+   - I created custom domain records and linked them to the web resources in the WebApp Subnet.
+2. **Azure Load Balancer**:
+   - Configured the load balancer to distribute traffic across VMs in the WebApp Subnet.
